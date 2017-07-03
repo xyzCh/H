@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<webconf>
+	<item id="port">8888</item>
+	<item id="webroot">/sdcard/web</item>
+	<item id="defaultPage">index.html</item>
+</webconf>
